@@ -28,7 +28,7 @@
     "prepare": "yarn build"
   },
   "dependencies": {
-    "d3-array": "^2.12.1",
+    "d3-array": "^3.0.1",
     "d3-scale": "^3.3.0",
     "fs-extra": "^10.0.0",
     "jstat": "^1.9.4",
